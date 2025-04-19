@@ -1,0 +1,37 @@
+📊 Power BI Dashboard – 3-Year Business Analysis (2003–2005)
+An end-to-end Power BI project focused on delivering actionable insights into sales and profit trends over a 3-year period using advanced BI techniques.
+
+🔧 Workflow Overview
+Data Cleaning & Transformation
+Removed duplicates, null values, and formatting inconsistencies.
+Standardized columns and converted data types for accuracy.
+Parsed date fields to extract Year, Month, Quarter, and Day.
+Data Filtering & Pre-processing
+Filtered data based on relevant fields: city, employee number, product category, etc.
+Created custom columns and measures using DAX for dynamic analysis.
+Implemented conditional logic to enhance insight accuracy.
+Data Modeling & Relationships
+Designed a star schema model for optimal performance.
+Established one-to-many and many-to-one relationships between fact and dimension tables.
+Managed relationship cardinality and cross-filter direction for precise drill-downs.
+Interactive Dashboard Development
+Built a visually engaging and interactive Power BI dashboard with:
+KPI Cards for Total Sales, Profit, Quantity Ordered
+Bar, Column, Line, Area, and Pie Charts
+Advanced Slicers for filtering by Year, Month, City, Quarter, Employee Number
+Implemented tooltips, bookmarks, and dynamic titles for better user experience.
+
+💡 Insights Delivered
+Top & Bottom Selling Products across all dimensions
+Most Ordered Categories by Year, Quarter, and Month
+Sales Trend Analysis by Day, Month, and Year
+Performance Breakdown by City and Employee
+Quarterly & Monthly Profitability Patterns
+Identified sales peaks and gaps for strategic planning
+
+🛠️ Tech Stack & Skills Used
+Power BI Desktop
+Power Query Editor (ETL)
+DAX (Data Analysis Expressions)
+Data Modeling & Relationship Design
+Interactive Visualizations & UX Optimization
